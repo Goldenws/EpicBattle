@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.exe
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.deps.json
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.dll
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\bin\Debug\netcoreapp3.1\Epic Battle.pdb
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.dll
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.pdb
+C:\Users\Roland Strod\source\repos\Epic Battle\Epic Battle\obj\Debug\netcoreapp3.1\Epic Battle.genruntimeconfig.cache
